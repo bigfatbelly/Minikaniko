@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Minikaniko</string>
+    <string name="register">Register</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="fullname">FullName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="already_registered_login_here">Already Registered? Login here</string>
+    <string name="new_here_create_account">New here? Create account</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_dashboard">Welcome to Dashboard</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="your_name">your name</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="show_selected_items"></string>
+</resources>

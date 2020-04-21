@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577288377733",
+    "firebase_url": "https://minikaniko-e742a.firebaseio.com",
+    "project_id": "minikaniko-e742a",
+    "storage_bucket": "minikaniko-e742a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577288377733:android:309f430dbba416efd3e0ec",
+        "android_client_info": {
+          "package_name": "com.dolorrebagay.minikaniko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577288377733-bfn2gv4c2v9jqv5vieklatabobkfgm6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrod2mVREmxxS_2YgW2Yb9LEETPKNBiog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577288377733-bfn2gv4c2v9jqv5vieklatabobkfgm6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
